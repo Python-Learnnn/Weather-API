@@ -7,3 +7,5 @@
 [OR and AND](https://colab.research.google.com/drive/1p__zXPHYpEM7ewrscF5r0Ijs2PHNazw0?usp=sharing)
 
 [Single Digit](https://colab.research.google.com/drive/1t5QEmMcdEXokaF3DpMZfwBvZns3VlnmP?usp=sharing)
+
+[Pooling](https://colab.research.google.com/drive/1wmNMK3AD8JPyDbWyZX2SNWpZ48C7BR0_?usp=sharing)
